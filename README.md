@@ -1,4 +1,5 @@
 # To-Do List Web Application with Django and User Authentication
+[![Django CI](https://github.com/praTeek271/To-Do-list/actions/workflows/django.yml/badge.svg?branch=main)](https://github.com/praTeek271/To-Do-list/actions/workflows/django.yml)
 ### Link ::  https://github.com/praTeek271/To-Do-list
 ## Overview
 
