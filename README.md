@@ -19,4 +19,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses github
+- i am a bot
