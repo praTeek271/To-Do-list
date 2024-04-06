@@ -19,4 +19,4 @@ This Repo consists of the following files :
 <br>
 
 
-- automated commit
+- can be used for any branch
